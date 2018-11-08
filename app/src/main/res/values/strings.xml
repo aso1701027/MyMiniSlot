@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyMiniSlot</string>
+    <string name="str_Button">スタート</string>
+    <string name="up_Button">掛け金UP</string>
+    <string name="down_Button">掛け金DOWN</string>
+    <string name="msg_coin">1000</string>
+    <string name="msg_bet">10</string>
+    <string name="txv_Slot_Msg">ミニスロットゲーム</string>
+    <string name="rst_Button">手持ちRESET</string>
+    <string name="txv_coin">手持ちコイン：</string>
+    <string name="txv_bet">掛け金：</string>
+    <string name="rtn_Button">戻る</string>
+    <string name="txv_coin2">手持ちコイン：</string>
+    <string name="msg_coin2">1000</string>
+    <string name="txv_bet2">掛け金：</string>
+    <string name="msg_bet2">10</string>
+    <string name="stp_Button">ストップ</string>
+    <string name="txv_br">ストップボタンを押してください</string>
+</resources>
