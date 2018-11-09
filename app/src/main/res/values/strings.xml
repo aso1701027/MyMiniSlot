@@ -16,4 +16,5 @@
     <string name="msg_bet2">10</string>
     <string name="stp_Button">ストップ</string>
     <string name="txv_br">ストップボタンを押してください</string>
+    <string name="strStartEng">START</string>
 </resources>
